@@ -1,47 +1,47 @@
-ëÆ·‚ÆÔ≠®• 0 
-é‚´®Á≠Æ• 0
-§´Ô 0
-¢Æß‡†·‚† 0
-Ø‡®·‚†¢™® 0
+–°–æ—Å—Ç–æ—è–Ω–∏–µ 0 
+–û—Ç–ª–∏—á–Ω–æ–µ 0
+–¥–ª—è 0
+–≤–æ–∑—Ä–∞—Å—Ç–∞ 0
+–ø—Ä–∏—Å—Ç–∞–≤–∫–∏ 0
 . 0
 
-à£‡Î 0
-Æ‚§†¨ 0 
-¢¨•·‚• 0 
-· 0 
-Ø‡®·‚†¢™Æ© 0
+–ò–≥—Ä—ã 0
+–æ—Ç–¥–∞–º 0 
+–≤–º–µ—Å—Ç–µ 0 
+—Å 0 
+–ø—Ä–∏—Å—Ç–∞–≤–∫–æ–π 0
 . 0
 
 +5 0
-®£†‡ 0 
-‰®‰† B-GAME
+–∏–≥–∞—Ä 0 
+—Ñ–∏—Ñ–∞ B-GAME
 15 I-GAME
 , 0
 16 I-GAME 
-¨†‡‚Æ´ ™Æ¨°†‚ B-GAME 
+–º–∞—Ä—Ç–æ–ª –∫–æ–º–±–∞—Ç B-GAME 
 9 I-GAME
-£‚†5 B-GAME 
-†·†··®≠ B-GAME 
+–≥—Ç–∞5 B-GAME 
+–∞—Å–∞—Å—Å–∏–Ω B-GAME 
 4 I-GAME 
-® 0 
-‚‡® 0 
-§®·™† 0 
-î®‰¢ B-GAME 
+–∏ 0 
+—Ç—Ä–∏ 0 
+–¥–∏—Å–∫–∞ 0 
+–§–∏—Ñ–≤ B-GAME 
 13 I-GAME 
-£‚† B-GAME 
+–≥—Ç–∞ B-GAME 
 4 I-GAME 
-¢®§¨†™3 B-GAME
+–≤–∏–¥–º–∞–∫3 B-GAME
 
-é°¨•≠ 0
-®≠‚•‡•·•≠ 0
-≠† 0
+–û–±–º–µ–Ω 0
+–∏–Ω—Ç–µ—Ä–µ—Å–µ–Ω 0
+–Ω–∞ 0
 FIFA16
 17 I-GAME 
-®´® 0
-≠† 0
+–∏–ª–∏ 0
+–Ω–∞ 0
 GTA5 B-GAME 
 
-14 ®£‡ 0
+14 –∏–≥—Ä 0
 Call of Duty Ghosts B-GAME
 Call of Duty 4 Modern warfare B-GAME
 Call of Duty MW3 B-GAME
@@ -53,10 +53,10 @@ Farcry B-GAME
 3 I-GAME 
 Assassins Creed B-GAME
 4 I-GAME 
-ó•‡≠Î© ‰´†£ B-GAME
+–ß–µ—Ä–Ω—ã–π —Ñ–ª–∞–≥ B-GAME
 Need For Speed B-GAME
 Shift I-GAME 
-é§®≠ ®ß ≠†· B-GAME
+–û–¥–∏–Ω –∏–∑ –Ω–∞—Å B-GAME
 Fifa B-GAME
 11 I-GAME 
 Fifa B-GAME
@@ -65,16 +65,16 @@ Borderlends B-GAME
 Brothers in arms B-GAME
 UFS B-GAME
 3 I-GAME 
-à£‡† 0
-Ø‡†ß§≠®™ ·ØÆ‡‚† B-GAME
+–ò–≥—Ä–∞ 0
+–ø—Ä–∞–∑–¥–Ω–∏–∫ —Å–ø–æ—Ä—Ç–∞ B-GAME
 
 
-Ä 0
-‚†™¶• 0
-¢ 0
-ØÆ§†‡Æ™ 0
+–ê 0
+—Ç–∞–∫–∂–µ 0
+–≤ 0
+–ø–æ–¥–∞—Ä–æ–∫ 0
 +11 0
-®£‡ 0
+–∏–≥—Ä 0
 ! 0
 
 DESTINY B-GAME
